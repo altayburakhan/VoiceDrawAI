@@ -12,5 +12,5 @@ What I learned: This project deepened my understanding of integrating multiple A
 👉 If you're interested in learning more about this project, want to collaborate, or have any ideas to enhance it, feel free to connect with me!
 
 ```bash
-git clone https://github.com/altayburakhan/VoiceDrawAI.git
+[git clone https://github.com/altayburakhan/VoiceDrawAI.git](https://github.com/altayburakhan/VoiceDrawAI.git)
 cd VoiceDrawAI
